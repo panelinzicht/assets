@@ -1,5 +1,5 @@
 Steeds meer panels maken onderdeel uit van Opiniemeters. Deze online panels worden door ons beheerd. Vaak ontvangen onze leden een kleine vergoeding voor deelname aan deze panels. Ook maakt men regelmatig kans op een leuke prijs die ter beschikking wordt gesteld. De volgende panels zijn door Opiniemeters opgezet:
-<div style="margin-bottom:20px">
+<div class="row">
     <div class="col-sm-3 text-center">![Antoni van Leeuwenhoek
         Ziekenhuis](https://vragenlijstinvullen.nl/uploads/4e63d325033e9ec9c5c7034164fb28c6-avl-logo.png)
     </div>
@@ -10,7 +10,7 @@ Steeds meer panels maken onderdeel uit van Opiniemeters. Deze online panels word
         hopen nog jaren van dienst te kunnen zijn! Uiteraard is deze Community een gesloten community.
     </div>
 </div>
-<div style="margin-bottom:20px">
+<div class="row">
     <div class="col-sm-3 text-center">![Connect](https://assets.panelinzicht.nl/img/connect.png)</div>
     <div class="col-sm-9">
         **Connect** – In samenwerking met onze gewaardeerde partners voeren we diverse onderzoeken uit onder de naam
@@ -18,7 +18,7 @@ Steeds meer panels maken onderdeel uit van Opiniemeters. Deze online panels word
         onderwerpen.
     </div>
 </div>
-<div style="margin-bottom:20px">
+<div class="row">
     <div class="col-sm-3 text-center">![](http://assets.panelinzicht.nl/img/538.png)</div>
     <div class="col-sm-9">
         **Radio Community** – In de afgelopen jaren heeft Opiniemeters een radio community opgebouwd. Deze community
@@ -32,7 +32,7 @@ Steeds meer panels maken onderdeel uit van Opiniemeters. Deze online panels word
         <span>- **Dhr. O. Thijssen** - **Marktanalist Radio 538**</span>
     </div>
 </div>
-<div style="margin-bottom:20px">
+<div class="row">
     <div class="col-sm-3 text-center">![Dedicon Leespanel](https://vragenlijstinvullen.nl/templates/dedicon/images/Logo%20Dedicon.png)
     </div>
     <div class="col-sm-9">
