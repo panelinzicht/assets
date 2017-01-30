@@ -1,7 +1,5 @@
 Opiniemeters is een initiatief van Panel Inzicht B.V., ingeschreven bij het Handelsregister van de Kamer van Koophandel onder nummer 56080239.
 
-test
-
 Hieronder volgen stap voor stap de rechten en plichten om lid te zijn bij Opiniemeters. Door je bij Opiniemeters in te schrijven ga je akkoord met de volgende punten:
 
 **<u>Artikel 1: Toepasbaarheid; overeenkomst</u>**
